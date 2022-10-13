@@ -3,8 +3,11 @@
     "in": "budowa_(2003).mscz",
     "out": [
       "budowa_(2003).pdf",
-      "budowa_(2003).flac",
-      "budowa_(2003).mid"
+      "budowa_(2003).flac"
     ]
+  },
+  {
+    "in": "budowa_(2003)_mid.mscz",
+    "out": "budowa_(2003).mid"
   }
 ]
