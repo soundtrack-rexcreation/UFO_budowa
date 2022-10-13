@@ -1,6 +1,6 @@
 # Rex and the UFO: budowa
 
-![GitHub Workflow status](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/UFO_budowa/workflow)
+![GitHub Workflow status](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/UFO_budowa/Release)
 ![Total download count](https://img.shields.io/github/downloads/soundtrack-rexcreation/UFO_budowa/total)
 ![License](https://img.shields.io/github/license/soundtrack-rexcreation/UFO_budowa)
 ![Latest release version](https://img.shields.io/github/v/release/soundtrack-rexcreation/UFO_budowa)
